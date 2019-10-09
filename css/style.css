@@ -1,0 +1,25 @@
+/*body{
+   background: #d8d9db;
+}*/
+.left{
+	float: left;
+
+}
+.top_cat{
+	margin-top: 30px;
+}
+.tab-col{
+color: black;
+}
+.inlin{
+	display: inline;
+}
+.tab-pro{
+	float: left;
+	margin-top: 30px;
+	margin-left: 0%;
+}
+footer{
+
+	background-color: black;
+}
